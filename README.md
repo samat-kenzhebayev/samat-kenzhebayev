@@ -6,7 +6,7 @@
   <img src="https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/new-york-and-philadelphia-skylines-mashup-michael-tompsett.jpg" width="900" height="300"/>
 </div>
 
- 🛠 Tools
+<img src="https://media.giphy.com/media/TkDkMRnkxUAnOHI2HH/giphy.gif" width="55"> 🛠 Tools and Languages: 
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" /> &nbsp;
