@@ -1,5 +1,5 @@
 <h1 align="center">
-🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! 👋  </h1>
+🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! 👋 </h1>
  <div align="center">
 <h3> My name is Samat, I'm  Software QA Engineer <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60"></h3>
  <div align="center">
