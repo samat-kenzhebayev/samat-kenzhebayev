@@ -25,6 +25,6 @@
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" height="30" /> &nbsp;
 
- :mailbox: How to find me:<div id="badges">
+ :mailbox: **How to find me**:<div id="badges">
   
 [![Linkedin Badge](https://img.shields.io/badge/-Samat_Kenzhebayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samat-kenzhebayev/)](https://www.linkedin.com/in/samat-kenzhebayev/)
